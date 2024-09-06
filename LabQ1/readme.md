@@ -48,7 +48,7 @@ Clone the project
   git clone https://link-to-project
 ```
 
-Go to the obfuscated code directory : dist
+Go to the Project code directory
 
 ```bash
   cd LabQ1
